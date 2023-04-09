@@ -1,2 +1,0 @@
-# powerbi-projects
-dashboards 
